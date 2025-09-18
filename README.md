@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/axah37/frontend-mentor-blog-preview-card)
-- Live Site URL: [Live Site](https://axah37.github.io/frontend-mentor-blog-preview-card/)
+- Solution URL: [Source Code](https://github.com/axah37/frontend-mentor-product-preview)
+- Live Site URL: [Live Site](https://axah37.github.io/frontend-mentor-product-preview/)
 
 ## My process
 
